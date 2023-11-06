@@ -1,6 +1,33 @@
 import csv
 import re
+import json
 
+'''
+ex:
+{
+    "date": "1/1/2023",
+    "weight": "180",
+    "lifts": [
+        {
+            "exerciseName": "Deadlift",
+            "sets": [
+                {
+                    "reps": 3,
+                    "weight": 215"
+                },
+                {
+                    "reps": 2,
+                    "weight": 215"
+                },
+                {
+                    "reps": 2,
+                    "weight": 200"
+                }
+            ]
+        }
+    ]
+}
+'''
 def extractDataIntoJSON():
     with open('weightliftingData.csv') as data:
         csvReader = csv.reader(data, delimiter=',')
@@ -15,7 +42,7 @@ def extractDataIntoJSON():
             rowEntry["weight"] = WEIGHT
             rowEntry["lifts"] = list(map(extractLiftInfo, nonEmptyLifts))
             dataList.append(rowEntry)
-        #print(dataList)
+        print(json.dumps(dataList))
 
 def extractLiftInfo(rawString):
     nameVsSetPattern = r"^(\D*)\W(.*)$"
@@ -35,12 +62,16 @@ def extractLiftInfo(rawString):
 
         setPattern = r"(\d+)x(\d+)"
         setDataList = list(re.findall(setPattern, sets))
+
+        listOfSets = []
         for entry in setDataList:
-            print(exerciseName, " ", entry[0], "x", entry[1], " @ ", weight, sep="")
-        
-    #weightSets = list(map(lambda weightEntry: weightEntry[0], splitSets))
-    #return { "exerciseName": exerciseName, "weights": weightSets}
-    return {}
+            numSets = int(entry[0])
+            for i in range(numSets):
+                listOfSets.append({"reps": entry[1], "weight": weight})
+    return {
+        "exerciseName": exerciseName,
+        "sets": listOfSets
+    }
 
 def main():
     extractDataIntoJSON()
