@@ -29,7 +29,7 @@ ex:
 }
 '''
 def extractDataIntoJSON():
-    with open('weightliftingData.csv') as data:
+    with open('rawWeightliftingData.csv') as data:
         csvReader = csv.reader(data, delimiter=',')
         (DATE_COLUMN, WEIGHT_COLUMN, LIFT_1_COLUMN, LIFT_2_COLUMN, LIFT_3_COLUMN, LIFT_4_COLUMN, LIFT_5_COLUMN) = next(csvReader)
 
