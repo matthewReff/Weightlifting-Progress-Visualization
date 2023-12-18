@@ -1,0 +1,187 @@
+Date;Workout Name;Exercise Name;Set Order;Weight;Weight Unit;Reps;RPE;Distance;Distance Unit;Seconds;Notes;Workout Notes;Workout Duration
+2023-11-21 18:24:31;"Evening Workout";"Chin Up (Assisted)";1;20;lbs;5;;;;0;"";"Pull";57m
+2023-11-21 18:24:31;"Evening Workout";"Chin Up (Assisted)";2;10;lbs;3;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"Chin Up (Assisted)";3;10;lbs;2;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"Deadlift (Barbell)";1;135;lbs;5;;;;0;"";;57m
+2023-11-21 18:24:31;"Evening Workout";"Deadlift (Barbell)";2;225;lbs;3;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"Deadlift (Barbell)";3;255;lbs;3;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"Deadlift (Barbell)";4;255;lbs;2;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"Deadlift (Barbell)";5;255;lbs;3;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"Reverse Fly (Machine)";1;60;lbs;8;;;;0;"";;57m
+2023-11-21 18:24:31;"Evening Workout";"Reverse Fly (Machine)";2;70;lbs;8;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"Reverse Fly (Machine)";3;75;lbs;6;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"farmer carry";1;124;lbs;60;;;;0;"";;57m
+2023-11-21 18:24:31;"Evening Workout";"farmer carry";2;124;lbs;49;;;;0;;;57m
+2023-11-21 18:24:31;"Evening Workout";"farmer carry";3;124;lbs;32;;;;0;;;57m
+2023-11-24 15:44:42;"Afternoon Workout";"Bench Press (Barbell)";1;95;lbs;5;;;;0;"";"";1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Bench Press (Barbell)";2;135;lbs;5;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Bench Press (Barbell)";3;145;lbs;5;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Bench Press (Barbell)";4;145;lbs;4;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Bench Press (Barbell)";5;145;lbs;3;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Overhead Press (Barbell)";1;85;lbs;5;;;;0;"";;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Overhead Press (Barbell)";2;85;lbs;4;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Overhead Press (Barbell)";3;85;lbs;5;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Chest Dip (Assisted)";1;60;lbs;5;;;;0;"";;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Chest Dip (Assisted)";2;60;lbs;4;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Chest Dip (Assisted)";3;0;lbs;2;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Triceps Extension";1;65;lbs;8;;;;0;"";;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Triceps Extension";2;75;lbs;7;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Triceps Extension";3;65;lbs;9;;;;0;;;1h 8m
+2023-11-24 15:44:42;"Afternoon Workout";"Triceps Extension";4;75;lbs;6;;;;0;;;1h 8m
+2023-11-25 16:09:54;"Afternoon Workout";"Deadlift (Barbell)";1;225;lbs;5;;;;0;"";"";44m
+2023-11-25 16:09:54;"Afternoon Workout";"Deadlift (Barbell)";2;135;lbs;5;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Deadlift (Barbell)";3;275;lbs;2;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Deadlift (Barbell)";4;265;lbs;2;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Deadlift (Barbell)";5;265;lbs;2;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Chin Up (Assisted)";1;40;lbs;5;;;;0;"";;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Chin Up (Assisted)";2;20;lbs;5;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Chin Up (Assisted)";3;10;lbs;3;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Chin Up (Assisted)";4;20;lbs;4;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"T Bar Row";1;25;lbs;8;;;;0;"";;44m
+2023-11-25 16:09:54;"Afternoon Workout";"T Bar Row";2;50;lbs;5;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"T Bar Row";3;35;lbs;10;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"T Bar Row";4;35;lbs;8;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Bicep Curl (Barbell)";1;50;lbs;5;;;;0;"";;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Bicep Curl (Barbell)";2;60;lbs;3;;;;0;;;44m
+2023-11-25 16:09:54;"Afternoon Workout";"Bicep Curl (Barbell)";3;50;lbs;6;;;;0;;;44m
+2023-11-26 15:11:19;"Afternoon Workout";"Squat (Barbell)";1;190;lbs;4;;;;0;"";"";51m
+2023-11-26 15:11:19;"Afternoon Workout";"Squat (Barbell)";2;185;lbs;5;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Squat (Barbell)";3;185;lbs;5;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Squat (Barbell)";4;135;lbs;5;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Leg Press";1;90;lbs;8;;;;0;"";;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Leg Press";2;180;lbs;8;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Leg Press";3;270;lbs;8;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Leg Press";4;320;lbs;7;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Leg Press";5;320;lbs;5;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Knee Raise (Captain's Chair)";1;0;lbs;8;;;;0;"";;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Knee Raise (Captain's Chair)";2;0;lbs;8;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Knee Raise (Captain's Chair)";3;0;lbs;8;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Knee Raise (Captain's Chair)";4;8;lbs;8;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Standing Calf Raise (Machine)";1;150;lbs;8;;;;0;"";;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Standing Calf Raise (Machine)";2;250;lbs;8;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Standing Calf Raise (Machine)";3;340;lbs;8;;;;0;;;51m
+2023-11-26 15:11:19;"Afternoon Workout";"Standing Calf Raise (Machine)";4;340;lbs;8;;;;0;;;51m
+2023-11-28 17:59:42;"Afternoon Workout";"Pull Up";1;0;lbs;3;;;;0;"";"";1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Lat Pulldown (Machine)";1;120;lbs;5;;;;0;"";;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Lat Pulldown (Machine)";2;170;lbs;3;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Lat Pulldown (Machine)";3;160;lbs;3;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Lat Pulldown (Machine)";4;160;lbs;3;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Lat Pulldown (Machine)";5;140;lbs;3;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Deadlift (Barbell)";1;135;lbs;5;;;;0;"";;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Deadlift (Barbell)";2;225;lbs;3;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Deadlift (Barbell)";3;275;lbs;3;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Deadlift (Barbell)";4;275;lbs;2;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Deadlift (Barbell)";5;245;lbs;3;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Seated Row (Cable)";1;70;lbs;8;;;;0;"";;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Seated Row (Cable)";2;100;lbs;8;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Seated Row (Cable)";3;85;lbs;8;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"Seated Row (Cable)";4;85;lbs;6;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"farmer carry";1;124;lbs;50;;;;0;"";;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"farmer carry";2;124;lbs;41;;;;0;;;1h 7m
+2023-11-28 17:59:42;"Afternoon Workout";"farmer carry";3;124;lbs;31;;;;0;;;1h 7m
+2023-11-29 17:13:28;"Afternoon Workout";"Bench Press (Barbell)";1;95;lbs;5;;;;0;"";"";50m
+2023-11-29 17:13:28;"Afternoon Workout";"Bench Press (Barbell)";2;115;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Bench Press (Barbell)";3;135;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Bench Press (Barbell)";4;145;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Bench Press (Barbell)";5;150;lbs;3;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Overhead Press (Barbell)";1;45;lbs;5;;;;0;"";;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Overhead Press (Barbell)";2;65;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Overhead Press (Barbell)";3;85;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Overhead Press (Barbell)";4;85;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Overhead Press (Barbell)";5;85;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Incline Bench Press (Barbell)";1;85;lbs;5;;;;0;"";;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Incline Bench Press (Barbell)";2;105;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Incline Bench Press (Barbell)";3;115;lbs;5;;;;0;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Plank";1;;;;;;mi.;61;"";;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Plank";2;;;;;;mi.;50;;;50m
+2023-11-29 17:13:28;"Afternoon Workout";"Plank";3;;;;;;mi.;53;;;50m
+2023-12-02 16:19:53;"Afternoon Workout";"Squat (Barbell)";1;95;lbs;5;;;;0;"";"";1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Squat (Barbell)";2;135;lbs;5;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Squat (Barbell)";3;185;lbs;5;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Squat (Barbell)";4;190;lbs;5;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Squat (Barbell)";5;190;lbs;5;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Leg Press";1;90;lbs;10;;;;0;"";;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Leg Press";2;180;lbs;10;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Leg Press";3;270;lbs;8;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Leg Press";4;320;lbs;7;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Leg Press";5;320;lbs;7;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Weighted Plank";1;0;lbs;60;;;;0;"";;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Weighted Plank";2;25;lbs;50;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Weighted Plank";3;25;lbs;50;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Leg Extension (Machine)";1;85;lbs;8;;;;0;"";;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Leg Extension (Machine)";2;95;lbs;8;;;;0;;;1h 23m
+2023-12-02 16:19:53;"Afternoon Workout";"Leg Extension (Machine)";3;95;lbs;8;;;;0;;;1h 23m
+2023-12-04 20:34:04;"Evening Workout";"Pull Up (Assisted)";1;50;lbs;5;;;;0;"";"";1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Pull Up (Assisted)";2;0;lbs;3;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Pull Up (Assisted)";3;20;lbs;4;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Pull Up (Assisted)";4;20;lbs;4;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Deadlift (Barbell)";1;135;lbs;5;;;;0;"";;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Deadlift (Barbell)";2;225;lbs;5;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Deadlift (Barbell)";3;275;lbs;3;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Deadlift (Barbell)";4;275;lbs;2;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Deadlift (Barbell)";5;255;lbs;3;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Seated Row (Cable)";1;85;lbs;8;;;;0;"";;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Seated Row (Cable)";2;100;lbs;8;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Seated Row (Cable)";3;110;lbs;8;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Seated Row (Cable)";4;95;lbs;8;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Concentration Curl (Dumbbell)";1;20;lbs;5;;;;0;"";;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Concentration Curl (Dumbbell)";2;30;lbs;5;;;;0;;;1h 12m
+2023-12-04 20:34:04;"Evening Workout";"Concentration Curl (Dumbbell)";3;20;lbs;8;;;;0;;;1h 12m
+2023-12-07 20:52:09;"Evening Workout";"Overhead Press (Barbell)";1;65;lbs;5;;;;0;"";"";46m
+2023-12-07 20:52:09;"Evening Workout";"Overhead Press (Barbell)";2;95;lbs;5;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Overhead Press (Barbell)";3;100;lbs;5;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Overhead Press (Barbell)";4;100;lbs;4;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Bench Press (Barbell)";1;115;lbs;5;;;;0;"";;46m
+2023-12-07 20:52:09;"Evening Workout";"Bench Press (Barbell)";2;145;lbs;5;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Bench Press (Barbell)";3;150;lbs;4;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Bench Press (Barbell)";4;145;lbs;3;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Chest Dip";1;0;lbs;3;;;;0;"";;46m
+2023-12-07 20:52:09;"Evening Workout";"Chest Dip";2;0;lbs;6;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Chest Dip";3;0;lbs;5;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Lateral Raise (Dumbbell)";1;30;lbs;15;;;;0;"";;46m
+2023-12-07 20:52:09;"Evening Workout";"Lateral Raise (Dumbbell)";2;30;lbs;15;;;;0;;;46m
+2023-12-07 20:52:09;"Evening Workout";"Lateral Raise (Dumbbell)";3;30;lbs;6;;;;0;;;46m
+2023-12-08 18:24:47;"Evening Workout";"Squat (Barbell)";1;115;lbs;5;;;;0;"";"";1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Squat (Barbell)";2;185;lbs;5;;;;0;;;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Squat (Barbell)";3;195;lbs;5;;;;0;;;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Squat (Barbell)";4;135;lbs;5;;;;0;;;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Flat Leg Raise";1;;;5;;;;0;"";;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Flat Leg Raise";2;;;5;;;;0;;;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Box Squat (Barbell)";1;135;lbs;7;;;;0;"";;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Box Squat (Barbell)";2;185;lbs;7;;;;0;;;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Box Squat (Barbell)";3;205;lbs;3;;;;0;;;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Box Squat (Barbell)";4;185;lbs;7;;;;0;;;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Lying Leg Curl (Machine)";1;30;lbs;8;;;;0;"";;1h 3m
+2023-12-08 18:24:47;"Evening Workout";"Lying Leg Curl (Machine)";2;50;lbs;5;;;;0;;;1h 3m
+2023-12-10 18:53:30;"Evening Workout";"Deadlift (Barbell)";1;135;lbs;5;;;;0;"";"";54m
+2023-12-10 18:53:30;"Evening Workout";"Deadlift (Barbell)";2;225;lbs;3;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Deadlift (Barbell)";3;275;lbs;1;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Deadlift (Barbell)";4;245;lbs;3;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Deadlift (Barbell)";5;245;lbs;5;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Chin Up (Assisted)";1;40;lbs;5;;;;0;"";;54m
+2023-12-10 18:53:30;"Evening Workout";"Chin Up (Assisted)";2;0;lbs;3;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Chin Up (Assisted)";3;0;lbs;2;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Chin Up (Assisted)";4;20;lbs;4;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Seated Row (Cable)";1;85;lbs;8;;;;0;"";;54m
+2023-12-10 18:53:30;"Evening Workout";"Seated Row (Cable)";2;100;lbs;8;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Seated Row (Cable)";3;100;lbs;8;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Seated Row (Cable)";4;110;lbs;4;;;;0;;;54m
+2023-12-10 18:53:30;"Evening Workout";"Bicep Curl (Barbell)";1;50;lbs;6;;;;0;"";;54m
+2023-12-10 18:53:30;"Evening Workout";"Bicep Curl (Barbell)";2;40;lbs;6;;;;0;;;54m
+2023-12-12 20:00:26;"Evening Workout";"Incline Bench Press (Barbell)";1;45;lbs;5;;;;0;"";"";2h
+2023-12-12 20:00:26;"Evening Workout";"Incline Bench Press (Barbell)";2;95;lbs;5;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Incline Bench Press (Barbell)";3;135;lbs;4;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Incline Bench Press (Barbell)";4;135;lbs;4;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Incline Bench Press (Barbell)";5;135;lbs;3;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Overhead Press (Barbell)";1;45;lbs;5;;;;0;"";;2h
+2023-12-12 20:00:26;"Evening Workout";"Overhead Press (Barbell)";2;85;lbs;5;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Overhead Press (Barbell)";3;95;lbs;4;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Overhead Press (Barbell)";4;95;lbs;5;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Overhead Press (Barbell)";5;95;lbs;3;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Bench Press (Barbell)";1;115;lbs;7;;;;0;"";;2h
+2023-12-12 20:00:26;"Evening Workout";"Bench Press (Barbell)";2;125;lbs;7;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Bench Press (Barbell)";3;125;lbs;5;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Skullcrusher (Dumbbell)";1;20;lbs;5;;;;0;"";;2h
+2023-12-12 20:00:26;"Evening Workout";"Skullcrusher (Dumbbell)";2;40;lbs;5;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Skullcrusher (Dumbbell)";3;40;lbs;5;;;;0;;;2h
+2023-12-12 20:00:26;"Evening Workout";"Skullcrusher (Dumbbell)";4;40;lbs;5;;;;0;;;2h
